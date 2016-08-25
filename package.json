@@ -1,0 +1,26 @@
+{
+  "name": "personal-website-api",
+  "version": "1.0.0",
+  "description": "an extensible web api that can serve up different personal projects",
+  "main": "app.js",
+  "dependencies": {
+    "config": "^1.21.0",
+    "csci7551-course-website": "git+https://github.com/robfitzgerald/csci7551-course-website.git",
+    "express": "^4.14.0",
+    "forever": "^0.15.2",
+    "go-graph-presentation": "git+https://github.com/robfitzgerald/go-graph-presentation.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robfitzgerald/personal-website-api.git"
+  },
+  "author": "Rob Fitzgerald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robfitzgerald/personal-website-api/issues"
+  },
+  "homepage": "https://github.com/robfitzgerald/personal-website-api#readme"
+}
