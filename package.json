@@ -6,6 +6,7 @@
   "dependencies": {
     "config": "^1.21.0",
     "csci7551-course-website": "git+https://github.com/robfitzgerald/csci7551-course-website.git",
+    "csci5593-course-website": "git+https://github.com/robfitzgerald/csci5593-course-website.git",
     "express": "^4.14.0",
     "forever": "^0.15.2",
     "go-graph-presentation": "git+https://github.com/robfitzgerald/go-graph-presentation.git"
